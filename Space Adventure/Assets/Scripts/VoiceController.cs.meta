@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7bb31cd2c14ad3a469a0ad9bf67cdfe1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jump: {fileID: 8300000, guid: c9db55122d57cb149a3a8f11c46497fe, type: 3}
+  - gold: {fileID: 8300000, guid: c5de190fa715818429ad90f1be9b6442, type: 3}
+  - gameOver: {fileID: 8300000, guid: aee958289b8a8d142bf296e6d3036cef, type: 3}
+  - rocket: {fileID: 8300000, guid: 48041574d0e8d374c867f0ceaec69c8e, type: 3}
+  - shield: {fileID: 8300000, guid: db46d161323220046ac80735b465bf27, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

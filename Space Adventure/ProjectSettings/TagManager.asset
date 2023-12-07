@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Feet
+  - Platform
+  - DeathPlatform
+  - DeathPosition
+  - RocketBurn
+  - Rocket
+  - ChildPlayer
+  - RocketCollider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1472753775
+    locked: 0
+  - name: Planet
+    uniqueID: 3339569429
+    locked: 0
+  - name: Platform
+    uniqueID: 784253733
+    locked: 0
+  - name: Gold
+    uniqueID: 2710578693
+    locked: 0
+  - name: RocketPlayer
+    uniqueID: 2614783311
+    locked: 0
+  - name: Player
+    uniqueID: 1014157129
+    locked: 0
+  - name: Rocket
+    uniqueID: 1003822011
+    locked: 0
+  - name: RocketBackground
+    uniqueID: 66806653
+    locked: 0
+  - name: UI
+    uniqueID: 3788541585
+    locked: 0
